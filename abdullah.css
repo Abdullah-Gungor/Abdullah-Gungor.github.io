@@ -1,0 +1,40 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-image: url('https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmdoNDVyZnA2MHg4ZWlpcHZocHRkam8zOGJ1bTZkZ2R0YTRob3ExMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6v8dobB4gdb8c/giphy.webp');
+    background-size: cover;
+    background-position: center;
+    color: #333;
+}
+
+.container {
+    background-color: rgba(255, 255, 255, 0.8); /* Pastel beyaz bir arka plan */
+    padding: 20px;
+    max-width: 600px;
+    margin: 50px auto;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+h1 {
+    text-align: center;
+    color: #555;
+}
+
+p {
+    text-align: justify;
+    line-height: 1.6;
+}
+
+a {
+    display: block;
+    text-align: center;
+    margin: 20px 0;
+    color: #555;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover {
+    color: #000;
+}
